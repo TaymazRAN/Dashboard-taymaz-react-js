@@ -2,7 +2,7 @@
 <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./Dashboard.png" width="150"><br>
+<img src="./Dashboard.png" width="1000"><br>
 500px.png
 </td>
   </tr>
